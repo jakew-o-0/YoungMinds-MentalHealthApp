@@ -15,4 +15,3 @@ Young Minds:
 
 #### Other 
 - clear branding
-- content from reliable sources (doctors)
