@@ -13,13 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Content.md",
+                "file": "Ideas - Jake.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c90c3e3a1536eb7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "65cd0d3cfeb53484",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +118,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +139,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Content.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ac410b7b50d3394",
+  "active": "65cd0d3cfeb53484",
   "lastOpenFiles": [
-    "Brief Notes.md",
+    "Ideas - Jake.md",
     "Content.md",
+    "Brief Notes.md",
     "Docs/Mind Matters Project Guide - SOFTWARE.pdf",
     "Docs/Mind Matters Software Brief.pdf",
     "Docs",
