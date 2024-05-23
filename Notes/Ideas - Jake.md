@@ -18,3 +18,11 @@ Help content on mental health
 	- list of resources about mental health
 	- links to websites
 - settings
+
+#### Design
+Something flat, clean or sterile to create an  "[[Brief Notes#^abcdeb|Ambient Environment]]"
+- [[https://www.designstudiouiux.com/blog/what-is-glassmorphism-ui-trend/|Glass Morphism]]
+- [[https://www.justinmind.com/ui-design/neumorphism|Neumorphism]]
+- [[https://bramblingtech.com/blog/aurora-ui-the-new-visual-trend-for-2022/|Aurora UI]]
+
+![[wireframe-jake.svg]]

@@ -4,39 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "023687e89c5049dc",
+        "id": "57829a12635b3525",
         "type": "tabs",
         "children": [
           {
-            "id": "1ac410b7b50d3394",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas - Jake.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c90c3e3a1536eb7",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "65cd0d3cfeb53484",
+            "id": "3aaaaf4098cdeea9",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,13 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65cd0d3cfeb53484",
+  "active": "3aaaaf4098cdeea9",
   "lastOpenFiles": [
     "Ideas - Jake.md",
-    "Content.md",
+    "wireframes",
+    "wireframes/wireframe-jake.svg",
+    "wireframe-jake.svg~",
     "Brief Notes.md",
-    "Docs/Mind Matters Project Guide - SOFTWARE.pdf",
+    "Content.md",
     "Docs/Mind Matters Software Brief.pdf",
+    "Docs/Mind Matters Project Guide - SOFTWARE.pdf",
     "Docs",
     "create a link.md",
     "Welcome.md"
